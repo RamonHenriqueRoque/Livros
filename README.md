@@ -1,6 +1,6 @@
 <h1 align="Left">Resumo do repositório</h1>
 
-Nesse repositório, vou colocar os scripts que faço nos meus estudos, tanto em: livros, pesquisas de internet, cursos ou outras fontes.
+Nesse repositório, vou colocar os scripts que faço nos meus estudos em livros.
 
 O propósito principal desse repositório é para entender técnicas/práticas da área da Data Science. E por isso, quando ver algo interessante, faço um script para ver se faz sentido o que estou aprendendo e prática-lo.
 
