@@ -12,4 +12,4 @@ ________________________________________________________________________________
 Nessa pasta, estão os meus scripts de web scraping, atualmente, parei de fazer para estudar um pouco de LGPD e outros livros da área para que eu faça tudo conforme a legislação.
 
 ## 2. Series Temporais 📈
-Nessa pasta, estão os meus scripts do livro sobre series temporais, nele estará exemplo do livro e analise que fiz no  momento do estudo/leitura
+Nessa pasta, estão os meus scripts do livro sobre series temporais, nele estará exemplo do livro e analise que foram realizado no  momento do estudo/leitura
